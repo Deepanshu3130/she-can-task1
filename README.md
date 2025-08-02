@@ -34,8 +34,8 @@ A web application that allows interns to track their referral progress, view rew
 ### Setup Instructions
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/internship-referral-dashboard.git
-cd internship-referral-dashboard
+git clone https://github.com/Deepanshu3130/she-can-task1.git
+cd she-can-task1
 
 # Install backend dependencies
 cd backend
