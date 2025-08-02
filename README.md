@@ -15,8 +15,7 @@ A web application that allows interns to track their referral progress, view rew
 ## 🖼️ Screenshots
 
 ### Login Page
-![Login Page](<img width="1919" height="1056" alt="image" src="https://github.com/user-attachments/assets/4439c900-dd11-43c4-91e3-68d2e4fa2e0b" />
-)
+![Login Page]<img width="1919" height="1056" alt="image" src="https://github.com/user-attachments/assets/4439c900-dd11-43c4-91e3-68d2e4fa2e0b" />
 ### Signup Page
 ![Signup Page](<img width="936" height="982" alt="image" src="https://github.com/user-attachments/assets/02a2669a-b2da-4a8a-b373-8daf8d69dc66" />
 )
